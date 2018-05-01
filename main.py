@@ -4,6 +4,7 @@ app = Flask("DSA Hub")
 
 global layout_data
 
+# Setting multiple routes
 @app.route("/")
 @app.route("/home")
 @app.route("/index")
