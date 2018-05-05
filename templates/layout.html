@@ -5,14 +5,74 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-    <title>{{ layout_data['page_title'] }}</title>
+    <title>{% block title %}{% endblock %} - DSA Hub</title>
 
+    <!-- Custom style from Pygments -->
+    <style type="text/css">
+        {% block code_style %}{% endblock %}
+    </style>
+
+    <!-- Fontawesome Icons -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.12/js/all.js" integrity="sha384-Voup2lBiiyZYkRto2XWqbzxHXwzcm4A5RfdfG6466bu5LqjwwrjXCMBQBLMWh7qR" crossorigin="anonymous"></script>
+    <!-- Material Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
     <!-- Metro 4 -->
     <link rel="stylesheet" href="https://cdn.metroui.org.ua/v4/css/metro-all.min.css">
   </head>
   <body>
-    <h1>Hello, world!</h1>
+    <nav data-role="ribbonmenu">
+        <ul class="tabs-holder">
+            <li class="static"><a href="/">Home</a></li>
+            <li><a href="#section-one">Browse</a></li>
+            <li><a href="#section-two">About</a></li>
+            <li><a href="#section-three">Share</a></li>
+            <li><a href="#section-four">Help</a></li>
+        </ul>
 
+        <div class="content-holder">
+            <div class="section" id="section-one">
+                <p class="p-4">Section one</p>
+            </div>
+            <div class="section" id="section-two">
+                <p class="p-4">Section two</p>
+            </div>
+            <div class="section" id="section-three">
+                <div class="group">
+                  <button class="ribbon-button">
+                          <span class="icon">
+                              <img src="images/share.svg">
+                          </span>
+                      <span class="caption">Share</span>
+                  </button>
+
+                  <span class="title">Group title</span>
+              </div>
+
+              <div class="group">
+                  <button class="ribbon-button">
+                          <span class="icon">
+                              <img src="images/share.svg">
+                          </span>
+                      <span class="caption">Share</span>
+                  </button>
+
+                  <span class="title">Group title</span>
+              </div>
+            </div>
+            <div class="section" id="section-four">
+                <p class="p-4">Section four</p>
+            </div>
+        </div>
+      </nav>
+    <div class="container-fluid">
+        <div class="cell-10 offset-1">
+            <br />
+            {% block heading %}{% endblock %}
+            <hr />
+            <br />
+            {% block content %}{% endblock %}
+        </div>
+    </div>
     <!-- jQuery first, then Metro UI JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="https://cdn.metroui.org.ua/v4/js/metro.min.js"></script>

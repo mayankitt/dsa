@@ -1,0 +1,500 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ge",
+				"get_style_by_name"
+			],
+			[
+				"for",
+				"formatter"
+			],
+			[
+				"H",
+				"HtmlFormatter"
+			],
+			[
+				"ca",
+				"castedVotes"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"is",
+				"isEven"
+			],
+			[
+				"text",
+				"Textlocal"
+			],
+			[
+				"I",
+				"IndianDefenceForces"
+			],
+			[
+				"In",
+				"IndianMedia"
+			],
+			[
+				"rep",
+				"reply2"
+			],
+			[
+				"ee",
+				"even"
+			],
+			[
+				"s",
+				"situation"
+			],
+			[
+				"be",
+				"believeAndSupportIndianArmy"
+			],
+			[
+				"vi",
+				"videoWasGenuine"
+			],
+			[
+				"i",
+				"inc	#include \"…\""
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"C",
+				"Cunique"
+			],
+			[
+				"m",
+				"main	method (main)"
+			],
+			[
+				"rad",
+				"radius"
+			],
+			[
+				"r",
+				"radius"
+			],
+			[
+				"fr",
+				"fromDateArr"
+			],
+			[
+				"to",
+				"toDate"
+			],
+			[
+				"n",
+				"nextLine"
+			],
+			[
+				"fro",
+				"fromDate"
+			],
+			[
+				"re",
+				"reverseDirection"
+			],
+			[
+				"Substrin",
+				"Substrings"
+			],
+			[
+				"sort",
+				"sortedSubstrings"
+			],
+			[
+				"sun",
+				"substrings"
+			],
+			[
+				"su",
+				"substrings"
+			],
+			[
+				"sub",
+				"substringLength"
+			],
+			[
+				"main",
+				"mainStr"
+			],
+			[
+				"p",
+				"println"
+			],
+			[
+				"bin",
+				"bin2Dec"
+			],
+			[
+				"dec",
+				"dec2All"
+			],
+			[
+				"de",
+				"dec"
+			],
+			[
+				"d",
+				"dec"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"Arm",
+				"ArmstrongNumbers"
+			],
+			[
+				"num",
+				"numberOfDigits"
+			],
+			[
+				"fac",
+				"fact"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"fact",
+				"factorial"
+			],
+			[
+				"f",
+				"fact"
+			],
+			[
+				"res",
+				"respond"
+			],
+			[
+				"get",
+				"getElementByID"
+			],
+			[
+				"A",
+				"ActiveXObject"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 773,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/layout.html",
+			"settings":
+			{
+				"buffer_size": 5259,
+				"line_ending": "Windows",
+				"name": "<!doctype html>"
+			}
+		},
+		{
+			"file": "templates/index.html",
+			"settings":
+			{
+				"buffer_size": 27,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/mayan/Documents/Code/Python/dsa-hub/_config.yml",
+		"/C/Users/mayan/Documents/Besant Technologies/Prabin/coroutines.py",
+		"/C/Users/mayan/Documents/Besant Technologies/Prabin/prime_lambda.py",
+		"/C/Users/mayan/Documents/Code/Java/HacklandElection.java",
+		"/C/xampp/htdocs/shorten/index.php",
+		"/E/Cloud/GDrive/Mayank's Documents/Job Stuff/Misc/Sakar_app/.env",
+		"/C/Users/mayan/OneDrive/Projects/FoodProDocs/app/Company.php",
+		"/C/Users/mayan/OneDrive/Projects/FoodProDocs/resources/views/master.blade.php",
+		"/C/xampp/htdocs/shorten/project.txt",
+		"/C/xampp/htdocs/shorten/Googl.class.php",
+		"/C/xampp/htdocs/shorten/vendor/autoload.php",
+		"/E/Cloud/GDrive/Mayank's Documents/Job Stuff/Misc/Sakar_app/.env.example",
+		"/E/Cloud/GDrive/Mayank's Documents/Job Stuff/Misc/Sakar_app/resources/views/welcome.blade.php",
+		"/E/Cloud/GDrive/Mayank's Documents/Job Stuff/Misc/Sakar_app/.gitignore",
+		"/C/Users/mayan/OneDrive/Projects/FoodProDocs/resources/views/pages/company_admin/createProject.blade.php",
+		"/C/Users/mayan/OneDrive/Projects/FoodProDocs/app/Http/Controllers/CompanyController.php",
+		"/E/Cloud/GDrive/Mayank's Documents/Job Stuff/Misc/Sakar_app/resources/views/pages/NewMemberRegistration.blade.php",
+		"/C/Users/mayan/Documents/Repos/textlocalindia/composer.json",
+		"/E/Softwares/php/textlocalindia/composer.json",
+		"/C/Users/mayan/OneDrive/Documents/Personal Files/MyFeelings.cpp",
+		"/C/Users/mayan/OneDrive/Documents/Personal Files/Food for piles.txt",
+		"/C/Users/mayan/OneDrive/Projects/Java/c",
+		"/C/Users/mayan/OneDrive/Projects/Java/InheritanceConcepts.java",
+		"/C/Users/mayan/OneDrive/Projects/Java/Prg_1_SortedSubstrings.java",
+		"/C/Users/mayan/OneDrive/Projects/Java/TestProgram.java",
+		"/C/Users/mayan/OneDrive/Projects/Java/Prg_4_GreatestArea.java",
+		"/C/Users/mayan/OneDrive/Projects/Java/SwitchCase.java",
+		"/C/Users/mayan/OneDrive/Projects/Java/StringConcepts.java",
+		"/C/Users/mayan/OneDrive/Projects/Java/Prg_3_DaysCount.java",
+		"/C/Users/mayan/OneDrive/Projects/Java/Prg_2_OppositeDirections.java",
+		"/C/Users/mayan/OneDrive/Projects/Java/ArmstrongNumbers.java",
+		"/C/Users/mayan/OneDrive/Projects/Java/CheckArmstrong.java",
+		"/C/Users/mayan/OneDrive/Projects/Java/NumberConversion.java",
+		"/C/Users/mayan/OneDrive/Projects/Java/ArrayCode_1.java",
+		"/C/Users/mayan/OneDrive/Projects/Java/ArrayCode_2.java",
+		"/C/Users/mayan/OneDrive/Projects/Java/CheckStrong.java",
+		"/C/Users/mayan/OneDrive/Projects/Java/Strong.java",
+		"/C/xampp/htdocs/SimpleAjax/script.php",
+		"/C/xampp/htdocs/SimpleAjax/index.html",
+		"/C/xampp/htdocs/LearnLaravel/resources/views/pages/about.blade.php",
+		"/C/xampp/htdocs/LearnLaravel/app/Http/routes.php",
+		"/C/xampp/htdocs/LearnLaravel/resources/views/master.blade.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"home",
+			"date",
+			"Date",
+			"Function calculate",
+			"reverseDirections"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Function to calculate",
+			"rd"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"settings":
+					{
+						"buffer_size": 773,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								736,
+								736
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/layout.html",
+					"settings":
+					{
+						"buffer_size": 5259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								275,
+								275
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<!doctype html>",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "templates/index.html",
+					"settings":
+					{
+						"buffer_size": 27,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 128.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 135.0,
+	"status_bar_visible": true
+}
